@@ -1,8 +1,15 @@
 # Compiled class file
 *.class
 
+# Intellj files
+.idea
+
 # Log file
 *.log
+
+# DrawIO files
+*.drawio.bkp
+*.drawio.dtmp
 
 # BlueJ files
 *.ctxt
